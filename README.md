@@ -4,6 +4,7 @@
 
 ## _folder structure_
 
+* /images- images used in the project
 * /screeenshots - screenshot of the project
 * index.html - HTML
 * script.js
