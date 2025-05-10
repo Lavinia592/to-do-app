@@ -6,5 +6,6 @@
 
 * /images - images used as background
 * /screeenshots - screenshot of the project
-* index.html - HTML and JS code
+* index.html - HTML
+* script.js
 * style.css - CSS code
